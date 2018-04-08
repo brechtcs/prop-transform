@@ -1,6 +1,6 @@
 {
   "name": "prop-transform",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Functional wrapper around `dot-prop`",
   "main": "index.js",
   "scripts": {
