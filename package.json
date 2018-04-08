@@ -1,0 +1,31 @@
+{
+  "name": "prop-transform",
+  "version": "1.0.0",
+  "description": "Functional wrapper around `dot-prop`",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "dependencies": {
+    "dot-prop": "^4.2.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "keywords": [
+    "object",
+    "property",
+    "mapper",
+    "function"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brechtpm/prop-transform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brechtpm/prop-transform/issues"
+  },
+  "author": "Brecht Savelkoul <brecht.savelkoul@gmail.com>",
+  "license": "Apache-2.0"
+}
